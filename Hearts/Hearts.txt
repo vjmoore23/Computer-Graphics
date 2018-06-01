@@ -1,0 +1,1 @@
+Computer graphics created using JavaScript to simulate valentine's day objects and colors. User can control animations.
